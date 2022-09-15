@@ -1,6 +1,14 @@
 # whxmail
 
-
+<p>A simple library to facilitate the process of generating emails from 4 domains </p>
+<strong>The following dominoes: </strong> <br><br>
+<span style="color: green;">
+- gmail <br>
+- yahoo<br>
+- hotmail<br>
+- autlook.com<br>
+- autlook.sa<br>
+</span>
 
 # support
 
